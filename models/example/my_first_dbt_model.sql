@@ -17,7 +17,7 @@ with source_data as (
 
 )
 
-select *
+select * kweh
 from source_data
 
 /*
